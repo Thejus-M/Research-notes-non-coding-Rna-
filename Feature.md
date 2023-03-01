@@ -11,4 +11,4 @@
 - Conservation Score
 - Nucleotide Frequencies
 - Hexamer score
-- Fickett Score
+- ~~Fickett Score~~
