@@ -9,12 +9,12 @@ This repository contains the code and data for a project aimed at finding whethe
 -  K-mer periodicity
 -  Minimal Free Energy
 -  Transcript length
--  CpG i-  slands
--  BLAST si-  milarity
--  Conservatio-  n Score
--  Nucleotide Fre-  quencies
--  Hexamer score-  
--  Fickett Score-  
+-  CpG islands
+-  BLAST similarity
+-  Conservation Score
+-  Nucleotide Frequencies
+-  Hexamer score  
+-  Fickett Score  
 
 # Dataset
 
