@@ -1,6 +1,21 @@
 # Finding Coding RNA using Machine Learning
 
-This repository contains the code and data for a project aimed at finding whether a given DNA sequence is coding RNA or non-coding RNA using machine learning models. The project uses various features of the DNA sequence to train the models, including ORF length, protein coding potential, G-C content, K-mer periodicity, Minimal Free Energy, Transcript length, CpG islands, BLAST similarity, Conservation Score, Nucleotide Frequencies, Hexamer score, and Fickett Score.
+This repository contains the code and data for a project aimed at finding whether a given DNA sequence is coding RNA or non-coding RNA using machine learning models. The project uses various features of the DNA sequence to train the models
+
+# Features
+-  ORF length
+-  protein coding potential
+-  G-C content
+-  K-mer periodicity
+-  Minimal Free Energy
+-  Transcript length
+-  CpG i-  slands
+-  BLAST si-  milarity
+-  Conservatio-  n Score
+-  Nucleotide Fre-  quencies
+-  Hexamer score-  
+-  Fickett Score-  
+
 # Dataset
 
 The dataset used in this project contains both coding and non-coding RNA sequences. The sequences are in FASTA format and have been pre-processed to extract various features such as ORF length, protein coding potential, etc. The dataset is split into training and testing sets, with 80% of the data used for training and the remaining 20% used for testing.
