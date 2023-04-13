@@ -1,4 +1,4 @@
-# Finding Coding RNA using Machine Learning
+#  Finding Coding RNA using Machine Learning
 
 This repository contains the code and data for a project aimed at finding whether a given DNA sequence is coding RNA or non-coding RNA using machine learning models. The project uses various features of the DNA sequence to train the models
 
